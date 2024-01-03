@@ -46,8 +46,8 @@
 
 ### <div align="center">STATISTICHE</div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=VincenzoTavassi&show_icons=true&theme=flag-india" height="200">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincenzoTavassi&layout=compact&size_weight=0.5&count_weight=0.5&&hide=html,css" height="200">
+<img src="https://github-readme-stats.vercel.app/api?username=VincenzoTavassi&show_icons=true&theme=flag-india" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincenzoTavassi&layout=compact&size_weight=0.5&count_weight=0.5&&hide=html,css" height="170">
 </div>
 
 ### <div align="center">CONTATTI</div>
