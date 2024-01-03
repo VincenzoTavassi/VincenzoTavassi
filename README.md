@@ -5,7 +5,7 @@
 
 ## <div align="center"> Sono un Jr. Full Stack Web Developer 🚀</div>
 
-<div align="left">🎮 Sono da sempre interessato alla tecnologia in tutti i suoi aspetti e mi sono appassionato recentemente alla programmazione full stack.</div>
+<div align="left">🎮 Sono da sempre interessato alla tecnologia in tutti i suoi aspetti e mi sono appassionato da circa un anno alla programmazione full stack.</div>
 <div align="left">📚 Attualmente sto seguendo un progetto personale su <b>Laravel</b> e sto studiando <b>Java & Spring</b>!</div>
 <div align="left">👨🏻‍💻 Ho frequentato le tech academy di Boolean ed Experis, acquisendo competenze nell'utilizzo di tecnologie sia front-end che back-end, ma soprattutto il mindset utile ad apprenderne altre in futuro.</div>
 <div align="left">🌱 Desidero specializzarmi ulteriormente e sono alla ricerca di opportunità in ambienti professionali, dove potermi mettere alla prova con progetti di ampio respiro.</div>
