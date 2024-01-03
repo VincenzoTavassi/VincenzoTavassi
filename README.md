@@ -24,7 +24,7 @@
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://www.freecodecamp.org/news/content/images/2022/04/sass-image.png" alt="Sass" height="40" /></a> 
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="JavaScript" height="40" /></a>  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="Vue.js" height="40" /></a>  
-<a href="https://vitejs.dev/" target="_blank"><img style="margin: 10px" src="https://vitejs.dev/logo-with-shadow.png" alt="Vite.js" height="50" /></a> 
+<a href="https://vitejs.dev/" target="_blank"><img style="margin: 10px" src="https://vitejs.dev/logo-with-shadow.png" alt="Vite.js" height="50" /></a>
 </div>
 </td>
   
@@ -32,7 +32,7 @@
   
 ### <div align="center">Backend</div>  
 <div align="center">  
-<a href="https://www.java.com/it/" target="_blank"><img style="margin: 10px" src="https://www.pngfind.com/pngs/m/74-744402_java-logo-png-transparent-svg-vector-freebie-supply.png" alt="Java" height="50" /></a>  
+<a href="https://www.java.com/it/" target="_blank"><img style="margin: 10px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo.png" alt="Java" height="60" /></a>  
 <a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Noub1bn2c-qaMhUDPdfkEBfuEkQEaCMsQvURts7WzfPSElJ8IbbkkPKftCyV0R1mzPU&usqp=CAU" alt="Spring" height="50" /></a>  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/260px-PHP-logo.svg.png" alt="PHP" height="50" /></a>  
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" height="50" /></a>  
