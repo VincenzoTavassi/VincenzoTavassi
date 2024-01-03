@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=32&duration=3000&pause=500&color=F79E2F&center=true&vCenter=true&width=650&lines=Ciao+a+tutti+%F0%9F%91%8B;Sono+Vincenzo;benvenuti+sul+mio+profilo+GitHub!" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=32&duration=3000&pause=500&color=F79E2F&center=true&vCenter=true&width=650&lines=Hey!+%F0%9F%91%8B;Sono+Vincenzo;benvenuto+sul+mio+profilo+GitHub!" />
 </div>
 
 
