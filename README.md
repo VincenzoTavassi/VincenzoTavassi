@@ -6,8 +6,8 @@
 ## <div align="center"> Sono un Jr. Full Stack Web Developer 🚀</div>
 
 <div align="left">🎮 Sono da sempre interessato alla tecnologia in tutti i suoi aspetti e mi sono appassionato recentemente alla programmazione full stack.</div>
-<div align="left">📚 Attualmente sto seguendo un progetto personale su Laravel e sto studiando JAVA & Spring!</div>
-<div align="left">👨🏻‍💻 Ho studiato presso le tech academy di Boolean ed Experis, acquisendo competenze nell'utilizzo di tecnologie sia front-end e back-end, ma soprattutto il mindset utile ad apprenderne altre in futuro.</div>
+<div align="left">📚 Attualmente sto seguendo un progetto personale su <b>Laravel</b> e sto studiando <b>Java & Spring</b>!</div>
+<div align="left">👨🏻‍💻 Ho frequentato le tech academy di Boolean ed Experis, acquisendo competenze nell'utilizzo di tecnologie sia front-end che back-end, ma soprattutto il mindset utile ad apprenderne altre in futuro.</div>
 <div align="left">🌱 Desidero specializzarmi ulteriormente e sono alla ricerca di opportunità in ambienti professionali, dove potermi mettere alla prova con progetti di ampio respiro.</div>
 
 ## <div align="center">💻 COMPETENZE TECNICHE</div>
@@ -18,12 +18,12 @@
 ### <div align="center">Frontend</div>  
   
 <div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="JavaScript" height="40" /></a>  
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="Vue.js" height="40" /></a>  
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://www.freecodecamp.org/news/content/images/2022/04/sass-image.png" alt="Sass" height="40" /></a> 
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" height="40" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" height="40" /></a> 
 <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="Bootstrap" height="40" /></a>
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://www.freecodecamp.org/news/content/images/2022/04/sass-image.png" alt="Sass" height="40" /></a> 
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="JavaScript" height="40" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="Vue.js" height="40" /></a>  
 <a href="https://vitejs.dev/" target="_blank"><img style="margin: 10px" src="https://vitejs.dev/logo-with-shadow.png" alt="Vite.js" height="50" /></a>
 </div>
 </td>
@@ -46,7 +46,8 @@
 
 ### <div align="center">STATISTICHE</div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=VincenzoTavassi&show_icons=true&theme=merko" />
+<img src="https://github-readme-stats.vercel.app/api?username=VincenzoTavassi&show_icons=true&theme=flag-india" height="200">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincenzoTavassi&layout=compact&size_weight=0.5&count_weight=0.5&&hide=html,css" height="200">
 </div>
 
 ### <div align="center">CONTATTI</div>
