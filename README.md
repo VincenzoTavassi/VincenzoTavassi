@@ -1,15 +1,14 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=32&duration=3000&pause=500&color=4f4f4f&center=true&vCenter=true&width=650&lines=Ciao+a+tutti+%F0%9F%91%8B;Sono+Vincenzo;benvenuti+sul+mio+profilo+Git+Hub!" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=32&duration=3000&pause=500&color=F79E2F&center=true&vCenter=true&width=650&lines=Ciao+a+tutti+%F0%9F%91%8B;Sono+Vincenzo;benvenuti+sul+mio+profilo+GitHub!" />
 </div>
 
 
 ## <div align="center"> Sono un Jr. Full Stack Web Developer 🚀</div>
 
-<div align="center">•📚 Attualmente sto studiando JAVA & Spring.</div>
-<div align="center">•👨🏻‍💻 Ho studiato presso Boolean ed Experis Academy, ed ho acquisito competenze nell'utilizzo di tecnologie front-end e back-end e le basi per poter imparare altre tecnologie in futuro.</div>
-<div align="center">•🌱 Amo essere in continuo aggiornamento e ho voglia di ampliare le mie conoscenze, imparando anche nuovi framework o nuovi linguaggi di programmazione.</div>
-<div align="center">•🎮 Sono appassionato di tecnologia sin da quando ero bambino.</div>
-
+<div align="left">🎮 Sono da sempre interessato alla tecnologia in tutti i suoi aspetti e mi sono appassionato recentemente alla programmazione full stack.</div>
+<div align="left">📚 Attualmente sto seguendo un progetto personale su Laravel e sto studiando JAVA & Spring!</div>
+<div align="left">👨🏻‍💻 Ho studiato presso le tech academy di Boolean ed Experis, acquisendo competenze nell'utilizzo di tecnologie sia front-end e back-end, ma soprattutto il mindset utile ad apprenderne altre in futuro.</div>
+<div align="left">🌱 Desidero specializzarmi ulteriormente e sono alla ricerca di opportunità in ambienti professionali, dove potermi mettere alla prova con progetti di ampio respiro.</div>
 
 ## <div align="center">💻 COMPETENZE TECNICHE</div>
 
@@ -44,6 +43,11 @@
 </tr>
 </table>  
 </div> 
+
+### <div align="center">STATISTICHE</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=VincenzoTavassi&show_icons=true&theme=merko" />
+</div>
 
 ### <div align="center">CONTATTI</div>
 <div align="center">
